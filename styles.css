@@ -20,6 +20,11 @@ body {
   display:flex;
   align-items:center;
 }
+
+.nav-links > li {
+  flex:1 1 auto;
+}
+
 .nav-links > li > a {
   color:#e5d5f0;
   text-decoration:none;
